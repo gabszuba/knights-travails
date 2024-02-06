@@ -2,6 +2,7 @@
 
 ## Problem Statement
 Given the starting and ending coordinates of the knight's journey, the algorithm calculates the shortest path while adhering to the movement rules of a knight in chess. The knight's basic move involves two steps forward and one step to the side, or one step forward and two steps to the side. The algorithm aims to output a list of lists containing the squares the knight will stop on along the shortest route.
+
 ![Knight's Travails board](images/knights_travails_board.gif)
 
 ## Rules and Considerations
